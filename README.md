@@ -1,4 +1,4 @@
-# Vaccine_Trial_Simulation
+# vaccine_trial_simulation
 This repository contains a computational approach to evaluate a veterinary vaccine trial for Hepatitis E in pigs. The project focuses on determining the sample size (N) of both treatment groups required to achieve a 90% chance of detecting a statistically significant reduction in infection rates, using a permutation test.
 
 ### Project Overview
