@@ -5,11 +5,11 @@ This repository contains a computational approach to evaluate a veterinary vacci
 
 The problem assumes:
 
-The probability of infection for untreated pigs is pc = 0.5.
+* The probability of infection for untreated pigs is pc = 0.5.
 
-The probability of infection for vaccinated pigs is pv = 0.1.
+* The probability of infection for vaccinated pigs is pv = 0.1.
 
-Statistical significance is evaluated at the α = 0.05 level.
+* Statistical significance is evaluated at the α = 0.05 level.
 
 The objective is to:
 
@@ -21,13 +21,13 @@ The objective is to:
 
 ### Key Features
 
-Simulation Function: Simulates infection outcomes using random probabilities.
+* Simulation Function: Simulates infection outcomes using random probabilities.
 
-Permutation Test: Performs a statistical test to assess the significance of infection rate differences.
+* Permutation Test: Performs a statistical test to assess the significance of infection rate differences.
 
-Sample Size Analysis: Uses iterative simulations to identify an optimal sample size.
+* Sample Size Analysis: Uses iterative simulations to identify an optimal sample size.
 
-Visualization: Provides plots to help interpret the results and validate findings.
+* Visualization: Provides plots to help interpret the results and validate findings.
 
 ### Repository Structure
 
