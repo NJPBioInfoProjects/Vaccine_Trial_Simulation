@@ -31,6 +31,6 @@ The objective is to:
 
 ### Repository Structure
 
-* notebook.ipynb: Main Jupyter Notebook containing the implementation, analysis, and results.
-
 * README.md: Project documentation (this file)
+
+* vaccine_trial_simulation.ipynb: Main Jupyter Notebook containing the implementation, analysis, and results.
