@@ -13,13 +13,13 @@ Statistical significance is evaluated at the α = 0.05 level.
 
 The objective is to:
 
-Simulate infection outcomes for control and treatment groups.
+1. Simulate infection outcomes for control and treatment groups.
 
-Implement a permutation test to evaluate differences in infection rates.
+2. Implement a permutation test to evaluate differences in infection rates.
 
-Determine the sample size  that provides a 90% chance of detecting a significant reduction in infection rates.
+3. Determine the sample size  that provides a 90% chance of detecting a significant reduction in infection rates.
 
-Key Features
+### Key Features
 
 Simulation Function: Simulates infection outcomes using random probabilities.
 
@@ -29,10 +29,8 @@ Sample Size Analysis: Uses iterative simulations to identify an optimal sample s
 
 Visualization: Provides plots to help interpret the results and validate findings.
 
-Repository Structure
+### Repository Structure
 
 notebook.ipynb: Main Jupyter Notebook containing the implementation, analysis, and results.
-
-functions.py (optional): Standalone Python functions used in the analysis.
 
 plots/: Folder to save generated plots.
