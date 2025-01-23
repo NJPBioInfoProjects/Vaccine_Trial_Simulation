@@ -31,6 +31,6 @@ The objective is to:
 
 ### Repository Structure
 
-notebook.ipynb: Main Jupyter Notebook containing the implementation, analysis, and results.
+* notebook.ipynb: Main Jupyter Notebook containing the implementation, analysis, and results.
 
-plots/: Folder to save generated plots.
+* README.md: Project documentation (this file)
